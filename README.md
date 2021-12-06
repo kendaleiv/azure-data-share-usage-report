@@ -4,7 +4,7 @@ Display data consumer usage information for an Azure Data Share data provider's 
 
 ## Usage
 
-Requires .NET 5
+Requires .NET 6
 
 ```
 > cd src/AzureDataShareUsageReport
